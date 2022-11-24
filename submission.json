@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "mbouassa/pandas:latest",
+    "build-script": "python run.py test"
+}
